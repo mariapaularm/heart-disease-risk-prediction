@@ -71,5 +71,7 @@ Estadísticas después de normalización:
 | `y_train` | (189,) | Etiquetas de entrenamiento |
 | `y_test` | (81,) | Etiquetas de prueba |
 
+
 ---
-**Fecha de generación**: 2026-01-30 19:23:53
+**Fecha de generación**: 2026-01-30 19:35:20
+
