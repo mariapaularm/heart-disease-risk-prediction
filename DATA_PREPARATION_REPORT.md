@@ -71,17 +71,6 @@ Estadísticas después de normalización:
 | `y_train` | (189,) | Etiquetas de entrenamiento |
 | `y_test` | (81,) | Etiquetas de prueba |
 
-## 6. Próximos Pasos
-
-1. ✓ Carga y exploración de datos (completado)
-2. ✓ Preparación y normalización (completado)
-3. → Implementación de regresión logística
-4. → Entrenamiento con descenso de gradiente
-5. → Visualización de límites de decisión
-6. → Regularización L2
-7. → Evaluación de métricas
-8. → Análisis con Amazon SageMaker
-
 ---
-**Fecha de generación**: 2026-01-30 19:56:40
+**Fecha de generación**: 2026-01-30 20:04:36
 **Estado**: Datos preparados y listos para modelado
