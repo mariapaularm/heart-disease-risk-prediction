@@ -94,6 +94,6 @@ La regularización L2 reduce la magnitud de los pesos:
 
 ---
 
-**Generado:** 2026-02-02 20:42:21
+**Generado:** 2026-02-02 22:47:58
 **Técnica:** Regularización L2 (Ridge Regression)
 **Status:** ✓ Análisis Completado

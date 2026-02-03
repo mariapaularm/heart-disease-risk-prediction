@@ -1,0 +1,29 @@
+{
+    "timestamp": "2026-02-02T22:44:06.212380",
+    "request": {
+        "Age": 60,
+        "Sex": 1,
+        "Chest pain type": 3,
+        "BP": 150,
+        "Cholesterol": 300,
+        "FBS over 120": 1,
+        "EKG results": 1,
+        "Max HR": 100,
+        "Exercise angina": 1,
+        "ST depression": 4.0,
+        "Slope of ST": 0,
+        "Number of vessels fluro": 2,
+        "Thallium": 3
+    },
+    "response": {
+        "prediction": 1,
+        "prediction_label": "Heart Disease Risk",
+        "probability_no_disease": 0.04430090850790347,
+        "probability_disease": 0.9556990914920965,
+        "confidence": 0.9556990914920965
+    },
+    "model_metadata": {
+        "accuracy": 0.8555555555555555,
+        "features_count": 13
+    }
+}
