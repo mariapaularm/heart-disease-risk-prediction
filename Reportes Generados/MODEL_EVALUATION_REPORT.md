@@ -154,6 +154,6 @@ Para el contexto de predicción de enfermedad cardíaca:
 
 ---
 
-**Fecha de Evaluación**: 2026-02-02 19:49:51
+**Fecha de Evaluación**: 2026-02-02 20:42:13
 **Modelo**: Regresión Logística (NumPy, sin Scikit-Learn para core training)
 **Status**: ✓ Entrenado y Evaluado

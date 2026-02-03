@@ -1,0 +1,26 @@
+{
+    "w": [
+        -0.16907801553805007,
+        0.25767242975263477,
+        1.004137187432186,
+        1.012349822262674,
+        0.5843647306210497,
+        -0.6757025521730402
+    ],
+    "b": -0.24884518228335234,
+    "learning_rate": 0.01,
+    "iterations": 5000,
+    "final_cost": 0.39759569809047574,
+    "initial_cost": 0.6909170212279588,
+    "accuracy_train": 0.8555555555555555,
+    "accuracy_test": 0.8518518518518519,
+    "auc_test": 0.9179012345679013,
+    "selected_features": [
+        "Age",
+        "Cholesterol",
+        "Thallium",
+        "Number of vessels fluro",
+        "Exercise angina",
+        "Max HR"
+    ]
+}
